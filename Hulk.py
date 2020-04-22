@@ -9,7 +9,7 @@ evenfeel='that I love'
 oddfeel='that I hate'
 end = 'it'
 
-if input_counter == 1: #set by default to 'I hate it' by rule
+if input_counter == 1: #set by default to 'I hate it' based on question+variables
 	pass
 else:
 	while input_counter != counter+1: #counter+1, since I am start execution at 0

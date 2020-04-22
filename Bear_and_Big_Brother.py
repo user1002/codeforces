@@ -1,9 +1,9 @@
 #Problem https://codeforces.com/problemset/problem/791/A
 
-w=input()
+w=input()#collect input
 
-wgt=[]
-wgt=w.split()
+wgt=[] #initialize list
+wgt=w.split() #split input values
 l=int(wgt[0])
 b=int(wgt[1])
 y=0

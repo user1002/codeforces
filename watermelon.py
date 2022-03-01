@@ -8,6 +8,6 @@ if w>2:
 	if (split % 2) == 0:
 		print("YES")
 	else:
-		print("NO")
+			print("NO")
 else:
 	print("NO")
